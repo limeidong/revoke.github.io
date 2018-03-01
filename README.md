@@ -1,6 +1,12 @@
-
-欢迎来到 我的主页之生日篇；
-
-      更多精彩内容 敬请期待……
-
-                                         ----李美东
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>李美东</title>
+</head>
+ 
+<body>
+  测试一下主页
+</body>
+ 
+</html>
